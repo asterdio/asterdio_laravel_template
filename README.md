@@ -24,6 +24,14 @@ You can remove the above section and add these following into the readme
 
 ***
 
+## Steps to install
+ - install docker if not already installed
+ - 'composer install'
+ - update docker.yml according to use
+ - './vendor/bin/sail up'
+
+***
+
 ## Branching Conventions
 
  - Main
